@@ -1,6 +1,6 @@
 **Minimal++ Compiler**
 
-This project implements a compiler for the Minimal++ programming language. The compiler is structured in three main phases:
+This project implements a compiler for the Minimal++ programming language and was programmed for Computer Science & Engineering @UoI. The compiler is structured in three main phases:
 
 * Lexical Analysis: The program reads the source code character by character, identifying keywords, symbols, and identifiers
 * Syntax Analysis: Using recursive descent parsing, the compiler checks if the code follows the grammar of Minimal++
