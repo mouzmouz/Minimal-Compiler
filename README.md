@@ -1,4 +1,4 @@
-Minimal++ Compiler
+**Minimal++ Compiler**
 
 This project implements a compiler for the Minimal++ programming language. The compiler is structured in three main phases:
 
@@ -8,6 +8,6 @@ This project implements a compiler for the Minimal++ programming language. The c
 
 The compiler includes a symbol table, handles nested functions and scopes, and outputs both intermediate code and executable assembly code. The project is tested with various programs that run successfully in the MARS simulator.
 
-** Credits **
+**Credits**
 Eleni Mouzaki
 Panagiotis Papaioannou
